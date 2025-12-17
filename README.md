@@ -51,5 +51,5 @@ The deployment was handled through the specific action provided by the lab envir
 3.  **Endpoint Creation:** Vertex AI creates a **REST API Endpoint** for live inference.
 ---
 ## Demo
-![Screenshot of the Image anslyzer in action](./assets/Screenshot.png)
+![Screenshot of the Image anslyzer in action](./assests/Screenshot.png)
 ---
