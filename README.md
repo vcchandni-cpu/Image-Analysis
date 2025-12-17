@@ -45,10 +45,11 @@ The intelligence of this tool is embedded in how the underlying LLM is instructe
 ### 2. Deployment on Vertex AI
 
 The deployment was handled through the specific action provided by the lab environment.
-![Screenshot of the Image anslyzer in action](./assets/screenshot.png)
 
 1.  **Preparation:** Package the inference code (which includes the system message and parameters) into a deployable artifact.
 2.  **Deployment Action:** Execute the **Vertex AI Lab Deploy Action**, specifying the model and endpoint configuration.
 3.  **Endpoint Creation:** Vertex AI creates a **REST API Endpoint** for live inference.
-
-
+---
+## Demo
+![Screenshot of the Image anslyzer in action](./assets/Screenshot.png)
+---
